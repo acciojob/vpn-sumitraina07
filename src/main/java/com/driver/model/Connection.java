@@ -43,7 +43,7 @@ public class Connection {
     }
 
     public ServiceProvider getServiceProvider() {
-        return serviceProvider;
+        return serviceProvide;
     }
 
     public void setServiceProvider(ServiceProvider serviceProvider) {
